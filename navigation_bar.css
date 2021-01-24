@@ -1,0 +1,31 @@
+/* navigation_bar.css */
+.topnav {
+	overflow: hidden;
+	background-color: #131313;
+}
+.topnav a {
+	float: left;
+	color: #9A9A9A;
+	text-align: center;
+	padding: 20px 16px;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;;
+}
+.topnav .last {
+	float: right;
+}
+.topnav a:hover {
+	color: #eeeeee;
+}
+.topnav a.active {
+	color: white;
+}
+.noselect {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}

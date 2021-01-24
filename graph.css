@@ -1,0 +1,1 @@
+/* graph.css */@media screen and (max-width:48em) { /*MOBILE*/	.container {		width: 80%;	}}@media screen and (min-width: 800px) { /* COMPUTER */	.container {		width: 50%;	}}

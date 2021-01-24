@@ -1,0 +1,9 @@
+/* links.css */
+a {
+	color: #169BD5;
+	text-decoration: none;
+}
+a:hover {
+	color: #0000EE;
+	text-decoration: none;
+}

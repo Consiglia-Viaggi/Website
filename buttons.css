@@ -1,0 +1,5 @@
+/* buttons.css */
+input[type=submit], button[type=button] {
+	padding: 10px 20px;
+	margin: 4px 2px;
+}
